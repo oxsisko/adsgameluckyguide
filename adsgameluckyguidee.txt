@@ -32,12 +32,12 @@
 "ironReward": "224354917",
 
 
-"HasApplicationURL":"false",
+"HasApplicationURL":"true",
 
 "ApplicationURL": "https://play.google.com/store/apps/details?id=com.tiltingpoint.sbadventures",
 "ApplicationImageURL": "https://cdn-icons-png.flaticon.com/512/8374/8374499.png",
 
-"HasApplicationURL2":"false",
+"HasApplicationURL2":"true",
 
 "ApplicationURL2": "https://play.google.com/store/apps/eventdetails/4829982215448228761",
 "ApplicationImageURL2": "https://play-lh.googleusercontent.com/D_KblLmWmgxRo07tVpTVj1ysGhJuJ3n5Rv_FC6xO5h3E9Pwmv6v7x6kYWztqX9VsAklR",
